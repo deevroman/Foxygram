@@ -9,7 +9,7 @@
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>6N38VWS5BX.ru.keepcoder.Telegram</string>
-		<string>6N38VWS5BX.ru.keepcoder.Telegram.TelegramShare</string>
+		<string>HDW42RS5C9.ru.keepcoder.Telegram.TelegramShare</string>
 	</array>
 	<key>com.apple.security.device.audio-input</key>
 	<true/>
@@ -29,7 +29,7 @@
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>6N38VWS5BX.ru.keepcoder.Telegram</string>
+		<string>6N38VWS5BX.ru.trickyfoxy.foxygram</string>
 		<string>6N38VWS5BX.ru.keepcoder.TelegramShare</string>
 	</array>
 </dict>

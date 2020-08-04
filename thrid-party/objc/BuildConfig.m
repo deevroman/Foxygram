@@ -108,13 +108,13 @@ static NSString *telegramApplicationSecretKey = @"telegramApplicationSecretKey_v
     NSArray *components = [accessGroup componentsSeparatedByString:@"."];
     NSString *bundleSeedID = [[components objectEnumerator] nextObject];
     CFRelease(result);
-    return @"6N38VWS5BX";
+    return @"HDW42RS5C9";
 }
 
 
 
 + (NSString * _Nullable)bundleSeedId {
-    return @"6N38VWS5BX";
+    return @"HDW42RS5C9";
 }
 
 + (NSData * _Nonnull)applicationSecretTag:(bool)isCheckKey {

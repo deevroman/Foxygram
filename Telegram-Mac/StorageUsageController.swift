@@ -434,7 +434,7 @@ class StorageUsageController: TableViewController {
         }, clearAll: {
             confirm(for: context.window, information: L10n.storageClearAllConfirmDescription, okTitle: L10n.storageClearAll, successHandler: { _ in
                 let path = context.account.postbox.mediaBox.basePath
-                _ = showModalProgress(signal: combineLatest(clearImageCache(), context.account.postbox.mediaBox.allFileContexts() |> mapToSignal { clearCache(path, excludes: $0) }), for: context.window).start()
+//                _ = showModalProgress(signal: combineLatest(clearImageCache(), context.account.postbox.mediaBox.allFileContexts() |> mapToSignal { clearCache(path, excludes: $0) }), for: context.window).start()
                 statsPromise.set(.single(CacheUsageStatsResult.result(.init(media: [:], mediaResourceIds: [:], peers: [:], otherSize: 0, otherPaths: [], cacheSize: 0, tempPaths: [], tempSize: 0, immutableSize: 0))))
             })
         })

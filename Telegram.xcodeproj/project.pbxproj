@@ -1015,8 +1015,8 @@
 		9F10CE99206284F8002DD61A /* InputDataDateRowItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputDataDateRowItem.swift; sourceTree = "<group>"; };
 		9F127E14210B1F540080D709 /* PeerMediaVoiceRowItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeerMediaVoiceRowItem.swift; sourceTree = "<group>"; };
 		9F12D342209251CF0072928B /* EditAccountInfoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditAccountInfoItem.swift; sourceTree = "<group>"; };
-		9F13CCE22006719400ECF301 /* ru */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		9F13CCE3200671AF00ECF301 /* uk */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		9F13CCE22006719400ECF301 /* ru */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		9F13CCE3200671AF00ECF301 /* uk */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		9F13EE162100B05300562E53 /* VCardContactController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCardContactController.swift; sourceTree = "<group>"; };
 		9F13EE182100B6DA00562E53 /* Contacts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Contacts.framework; path = System/Library/Frameworks/Contacts.framework; sourceTree = SDKROOT; };
 		9F13EE1A2100BFCA00562E53 /* VCardHeaderItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCardHeaderItem.swift; sourceTree = "<group>"; };
@@ -1395,11 +1395,11 @@
 		C21074261E77F7A3006EE5EF /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Release.xcconfig; sourceTree = "<group>"; };
 		C210742B1E780CC1006EE5EF /* PhotoCache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCache.swift; sourceTree = "<group>"; };
 		C21095991E9FE04700E10BDB /* ChatVideoMessageContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatVideoMessageContentView.swift; sourceTree = "<group>"; };
-		C21656CA1EE1CC6F0041A6BA /* pt-BR */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		C21656CB1EE1CC730041A6BA /* nl */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C21656CC1EE1CC760041A6BA /* it */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C21656CD1EE1CC7C0041A6BA /* de */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C21656CE1EE1CC830041A6BA /* es */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C21656CA1EE1CC6F0041A6BA /* pt-BR */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		C21656CB1EE1CC730041A6BA /* nl */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C21656CC1EE1CC760041A6BA /* it */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C21656CD1EE1CC7C0041A6BA /* de */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C21656CE1EE1CC830041A6BA /* es */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C21656D31EE4A83C0041A6BA /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/MainMenu.strings; sourceTree = "<group>"; };
 		C21656D51EE4A8400041A6BA /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MainMenu.strings; sourceTree = "<group>"; };
 		C21656D61EE4A8430041A6BA /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/MainMenu.strings; sourceTree = "<group>"; };
@@ -1636,7 +1636,7 @@
 		C253A9621D91A90100CDC850 /* ChatFileMediaItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatFileMediaItem.swift; sourceTree = "<group>"; };
 		C253A9661D92E3AE00CDC850 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		C253A96C1D92F69C00CDC850 /* ReplyModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReplyModel.swift; sourceTree = "<group>"; };
-		C253A9711D92F9F100CDC850 /* en */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C253A9711D92F9F100CDC850 /* en */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C253A9731D94182500CDC850 /* ChatRightView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatRightView.swift; sourceTree = "<group>"; };
 		C253E2251DE335C10022A29F /* ChatVoiceContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatVoiceContentView.swift; sourceTree = "<group>"; };
 		C253E22D1DE33A7C0022A29F /* ChatMusicRowItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatMusicRowItem.swift; sourceTree = "<group>"; };
@@ -5101,8 +5101,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "
-";
+			shellScript = "\n";
 		};
 		C2D85FD51F25FE5400EDEA15 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
